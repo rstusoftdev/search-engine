@@ -16,7 +16,7 @@ Q&&(R.onload=Q);document.getElementsByTagName("head")[0].appendChild(R);if(M()){
 })({
   "cx": "34616b4b65442e03d",
   "language": "en",
-  "theme": "V2_DEFAULT",
+  "theme": "V9_DEFAULT",
   "uiOptions": {
     "resultsUrl": "",
     "enableAutoComplete": true,
@@ -38,7 +38,7 @@ Q&&(R.onload=Q);document.getElementsByTagName("head")[0].appendChild(R);if(M()){
     "isSafeSearchActive": true
   },
   "protocol": "https",
-  "rawCss": ".gsc-control-cse{font-family:arial, sans-serif}.gsc-control-cse .gsc-table-result{font-family:arial, sans-serif}.gsc-refinementsGradient{background:linear-gradient(to left,rgba(255,255,255,1),rgba(255,255,255,0))}",
+  "rawCss": ".gsc-control-cse{font-family:segoe-ui, sans-serif}.gsc-control-cse .gsc-table-result{font-family:arial, sans-serif}.gsc-refinementsGradient{background:#5700bb",
   "cse_token": "AJvRUv3E9a8Zd6D3--McROE_FhwN:1637226807466",
   "isHostedPage": false,
   "exp": ["csqr", "cc"],
